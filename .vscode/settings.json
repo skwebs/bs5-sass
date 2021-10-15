@@ -1,0 +1,11 @@
+{
+  "prettier.endOfLine": "crlf",
+  "prettier.htmlWhitespaceSensitivity": "strict",
+  "prettier.jsxSingleQuote": true,
+  "prettier.jsxBracketSameLine": true,
+  "emmet.excludeLanguages": [
+    "html",
+    "css",
+    "js"
+  ]
+}
